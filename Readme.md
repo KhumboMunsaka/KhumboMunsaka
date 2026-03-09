@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web developer specializing in React and Next to solve complex problems.<br>Always learning.<br><br>I am currently working on a SQl to ERD generator
+I'm a web developer specializing in TypeScript, React and Next to solve complex problems.<br>Always learning.<br><br>I am currently working on a SQl to ERD generator
 
 
 # 💻 Tech Stack:
